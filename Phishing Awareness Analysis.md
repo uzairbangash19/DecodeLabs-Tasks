@@ -1,8 +1,5 @@
 # Project 3: Phishing Awareness Analysis
 
-**Author:** [Your Name]
-**Program:** DecodeLabs Cyber Security Internship — Batch 2026
-
 ## Goal
 Analyze sample emails/messages to identify phishing attempts, list red flags, and explain why each message is unsafe.
 
